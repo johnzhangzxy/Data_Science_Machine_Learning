@@ -1,6 +1,4 @@
 
-
-![image](root_image.jpeg)
 Course taken at Rice University 
 
 
